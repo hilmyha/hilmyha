@@ -2,8 +2,6 @@
 ### My name is __Hilmy Ahmad Haidar__
 
 Undergraduate Computer Engineering Student, Faculty of Informatics at Telkom Institute of Technology Purwokerto
-<!-- **hilmyha/hilmyha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I am a student of Computer Engineering who has experience as a laboratory assistant on campus. My interest in the world of programming began to develop when I entered college and found enjoyment in learning programming languages in class. Through this experience, I have been able to improve my skills in programming and also understand how technology can be used to solve problems faced by organizations. I also learned how to work with a team and manage projects in a laboratory environment. Through this experience, I am confident in applying the skills and knowledge I have in the working world and am ready to pursue a career in the field of information technology.
 
 
 # 💻 Tech Stack:
