@@ -13,7 +13,21 @@ I am a student of Computer Engineering. My interest in the world of programming 
     </a>
 </p>
 
-## 📚 Tech stack:
+## 📖 Currently Learning
+
+- [x] C++
+- [x] Python
+- [x] PHP
+- [x] SQL
+- [x] Laravel
+- [x] Java
+- [x] Kotlin
+- [ ] Lua
+- [x] JavaScript
+- [ ] TypeScript
+- [ ] React Native
+
+## 📚 Tech stack
 
 Here is a list of programming languages, frameworks, databases, and tools that I am proficient in:
 
