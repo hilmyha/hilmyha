@@ -1,10 +1,12 @@
 ![Whodareu](https://github.com/hilmyha/hilmyha/assets/68181532/5f2cdf1c-fa0f-49a9-95e6-641f9ad1fa22)
 
-# Hi there, I'm **Haidar**
+# Hi there, I'm **Haidar** 👋
 
 I am a student of Computer Engineering. My interest in the world of programming began to develop when I entered college and found enjoyment in learning programming languages in class. I have been able to improve my skills in programming and also understand how technology can be used to solve problems faced by organizations. I am currently looking for an internship program to improve my skills and gain experience in the world of work.
 
-<p align="center">
+## 📫 How to reach me
+
+<p>
     <a href="https://www.linkedin.com/in/hilmy-ahmad-haidar-a3b8b020b/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -15,17 +17,11 @@ I am a student of Computer Engineering. My interest in the world of programming 
 
 ## 📖 Currently Learning
 
-- [x] C++
-- [x] Python
-- [x] PHP
-- [x] SQL
-- [x] Laravel
-- [x] Java
-- [x] Kotlin
-- [ ] Lua
-- [x] JavaScript
-- [ ] TypeScript
-- [ ] React Native
+```json
+    "languages": ["TypeScript", "Lua"],
+    "frameworks": ["React Native"],
+    "databases": ["Firebase"]
+```
 
 ## 📚 Tech stack
 
