@@ -18,9 +18,9 @@ I am a student of Computer Engineering. My interest in the world of programming 
 ## 📖 Currently Learning
 
 ```json
-    "languages": ["TypeScript", "Lua"],
-    "frameworks": ["React Native"],
-    "databases": ["Firebase"]
+"languages": ["TypeScript", "Lua"],
+"frameworks": ["React Native"],
+"databases": ["Firebase"]
 ```
 
 ## 📚 Tech stack
